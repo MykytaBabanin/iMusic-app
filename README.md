@@ -7,10 +7,10 @@ https://user-images.githubusercontent.com/90902029/176994770-d2170b37-dd40-4e48-
 Used technologies:
 
 * AVKit Audio Player was used to play the songs
-* To request data from the Alatofire network
+* To request data from the Alamofire network
 * Search page written in UIKit
 * Library page on SwiftUI
 * For gestures, we used UIPanGestogeRecognizer (UIKIt) LongPressGesture (SwiftUI)
 * User Defaults was used to store data.
 * For registration and authorization, MongoDB was used with the Swift Parse SDK adapter
-* Cleanan Swift architecture
+* Clean Swift architecture
