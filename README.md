@@ -4,6 +4,8 @@ This app is for people who are into music. For rock schools that can share their
 
 https://user-images.githubusercontent.com/90902029/176994770-d2170b37-dd40-4e48-97ff-3874e8537358.mov
 
+Used technologies:
+
 * AVKit Audio Player was used to play the songs
 * To request data from the Alatofire network
 * Search page written in UIKit
